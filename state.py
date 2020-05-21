@@ -1,2 +1,5 @@
 enter_fio = 'enter_fio'
 take_the_job = 'take_the_job'
+check_the_job = 'check_the_job'
+admin_task = 'admin_task'
+add_comment = 'add_comment'
